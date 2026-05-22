@@ -1,0 +1,131 @@
+import streamlit as st
+st.title("Kanji collection for Japanese learners (N5 - N3) ")
+
+st.set_page_config(page_title="Japanese Kanji", page_icon="🇯🇵🗻", layout="wide")
+
+with st.container():
+     st.subheader("Hi, in this website, I'm gonna give you all the japanese kanji (N5 - N3) that I collected.")
+     st.write("Let's get started!")
+
+st.image ("https://i.pinimg.com/736x/67/48/a7/6748a7aa26bf444ab20686c75fab9c0e.jpg")
+
+with st.container():
+    st.header("N5 Kanji")
+
+    st.write("1. 日 — にち / ひ — Day / Sun")
+    st.write("2. 月 — げつ / つき — Month / Moon")
+    st.write("3. 火 — か / ひ — Fire")
+    st.write("4. 水 — すい / みず — Water")
+    st.write("5. 木 — もく / き — Tree")
+    st.write("6. 金 — きん / かね — Gold / Money")
+    st.write("7. 土 — ど / つち — Earth")
+    st.write("8. 山 — やま — Mountain")
+    st.write("9. 川 — かわ — River")
+    st.write("10. 田 — た — Rice Field")
+
+    st.write("11. 人 — ひと / じん — Person")
+    st.write("12. 口 — くち — Mouth")
+    st.write("13. 目 — め — Eye")
+    st.write("14. 耳 — みみ — Ear")
+    st.write("15. 手 — て — Hand")
+
+    st.write("16. 足 — あし — Foot / Leg")
+    st.write("17. 力 — ちから — Power")
+    st.write("18. 女 — おんな — Woman")
+    st.write("19. 男 — おとこ — Man")
+    st.write("20. 子 — こ — Child")
+
+    st.write("21. 学 — がく — Study")
+    st.write("22. 生 — せい / いきる — Life")
+    st.write("23. 先 — せん — Previous / Ahead")
+    st.write("24. 私 — わたし — I / Me")
+    st.write("25. 年 — ねん / とし — Year")
+
+    st.write("26. 時 — じ — Time")
+    st.write("27. 上 — うえ — Up")
+    st.write("28. 下 — した — Down")
+    st.write("29. 中 — なか — Middle")
+    st.write("30. 大 — おお — Big")
+    st.write("31. 小 — ちいさい — Small")
+    st.write("32. 本 — ほん — Book")
+    st.write("33. 学校 — がっこう — School")
+    st.write("34. 友 — とも — Friend")
+    st.write("35. 父 — ちち — Father")
+
+    st.write("36. 母 — はは — Mother")
+    st.write("37. 兄 — あに — Older Brother")
+    st.write("38. 姉 — あね — Older Sister")
+    st.write("39. 弟 — おとうと — Younger Brother")
+    st.write("40. 妹 — いもうと — Younger Sister")
+
+    st.write("41. 犬 — いぬ — Dog")
+    st.write("42. 猫 — ねこ — Cat")
+    st.write("43. 車 — くるま — Car")
+    st.write("44. 電 — でん — Electricity")
+    st.write("45. 話 — はなす — Speak / Talk")
+
+    st.write("46. 語 — ご — Language")
+    st.write("47. 食 — たべる — Eat")
+    st.write("48. 飲 — のむ — Drink")
+    st.write("49. 見 — みる — See")
+    st.write("50. 聞 — きく — Listen")
+
+    st.write("51. 行 — いく — Go")
+    st.write("52. 来 — くる — Come")
+    st.write("53. 帰 — かえる — Return")
+    st.write("54. 入 — はいる — Enter")
+    st.write("55. 出 — でる — Exit")
+
+    st.write("56. 休 — やすむ — Rest")
+    st.write("57. 会 — あう — Meet")
+    st.write("58. 名 — なまえ — Name")
+    st.write("59. 天 — てん — Heaven / Sky")
+    st.write("60. 気 — き — Spirit / Energy")
+
+    st.write("61. 雨 — あめ — Rain")
+    st.write("62. 雪 — ゆき — Snow")
+    st.write("63. 空 — そら — Sky")
+    st.write("64. 海 — うみ — Sea")
+    st.write("65. 魚 — さかな — Fish")
+
+    st.write("66. 花 — はな — Flower")
+    st.write("67. 草 — くさ — Grass")
+    st.write("68. 虫 — むし — Insect")
+    st.write("69. 音 — おと — Sound")
+    st.write("70. 字 — じ — Character / Letter")
+
+    st.write("71. 赤 — あか — Red")
+    st.write("72. 青 — あお — Blue")
+    st.write("73. 白 — しろ — White")
+    st.write("74. 黒 — くろ — Black")
+    st.write("75. 円 — えん — Yen / Circle")
+
+    st.write("76. 百 — ひゃく — Hundred")
+    st.write("77. 千 — せん — Thousand")
+    st.write("78. 万 — まん — Ten Thousand")
+    st.write("79. 半 — はん — Half")
+    st.write("80. 北 — きた — North")
+
+    st.write("81. 南 — みなみ — South")
+    st.write("82. 東 — ひがし — East")
+    st.write("83. 西 — にし — West")
+    st.write("84. 外 — そと — Outside")
+    st.write("85. 内 — うち — Inside")
+
+    st.write("86. 午 — ご — Noon")
+    st.write("87. 前 — まえ — Before / Front")
+    st.write("88. 後 — あと — After / Behind")
+    st.write("89. 毎 — まい — Every")
+    st.write("90. 週 — しゅう — Week")
+
+    st.write("91. 曜 — よう — Weekday")
+    st.write("92. 間 — あいだ — Interval / Between")
+    st.write("93. 道 — みち — Road")
+    st.write("94. 駅 — えき — Station")
+    st.write("95. 店 — みせ — Shop")
+
+    st.write("96. 社 — しゃ — Company / Shrine")
+    st.write("97. 国 — くに — Country")
+    st.write("98. 市 — し — City")
+    st.write("99. 村 — むら — Village")
+    st.write("100. 校 — こう — School")
